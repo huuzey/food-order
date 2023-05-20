@@ -5,6 +5,7 @@ import { fetching } from "./store/shopping-cart/fetched";
 
 export const BASE_URL = "https://food-order-hr2h.onrender.com";
 function App() {
+  var rert;
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(fetching());
