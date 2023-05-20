@@ -3,7 +3,7 @@ import Layout from "./components/Layout/Layout";
 import { useDispatch } from "react-redux";
 import { fetching } from "./store/shopping-cart/fetched";
 
-export const BASE_URL = "http://localhost:7000";
+export const BASE_URL = "https://food-order-hr2h.onrender.com";
 function App() {
   const dispatch = useDispatch();
   useEffect(() => {
