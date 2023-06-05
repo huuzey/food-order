@@ -1,6 +1,6 @@
 # food-order
 On this website:
-> On the homepage the user can toggle between popular foods like Pizza, Burger, Bread, and All available foods in the database and he can add to the cart or the foods detail page.
+> On the homepage the user can toggle between popular foods like Pizza, Burger, Bread, and All available foods in the database and he can add to the cart and go to the foods detail page.
 > On the foods page  all the foods are displayed and a search functionality added to it in addition, there is a pagination functionality added to this page with 4 items are displayed
  in single page
 > If the user is an admin or a permitted company to add food they can upload it to the database.
