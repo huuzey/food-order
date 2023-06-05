@@ -6,6 +6,6 @@ On this website:
 > If the user is an admin or a permitted company to add food they can upload it to the database.
 > When we come to the cart page the user can see his cart status and update, delete, and proceed to the checkout page.
 > On the checkout page the customer can order the product after successfully filled the required fields.
-> The state is managed by redux toolkit and stored in localstorage to keep the data at the refreshing of the page.
+> The state is managed by redux toolkit and  the state is stored in the  localstorage to keep the data at the refreshing of the page.
 > The cart icon shows the current number of items added to the cart and performs updating and deleting the cart items.
 > All pages are the children of the header and footer section.
